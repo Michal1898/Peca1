@@ -1,4 +1,8 @@
 /* CSS Document */
+body {
+ background-image: url("images/marble.jpg");
+ background-color: #cccccc;
+}
 h1 {
     color: green ;
     text-align: center ;

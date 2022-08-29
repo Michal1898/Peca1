@@ -23,6 +23,19 @@ table, th, td {
 
 }
 
+footer {
+      text-align:left;
+      font-family: Times New Roman, serif;
+      font-style: italic ;
+      font-size: 8 pt   ;
+      color: DarkBlue;  
+      background-color: Silver
+      }
+
+font-family: arial, sans-serif;}
+
+
+
 
 .ordinacni_hodiny {
     text-align: auto;
@@ -31,4 +44,25 @@ table, th, td {
 .peca_v_bilem {
   /*margin: 50px auto;*/
   text-align: center;
+}
+
+.fyzicka_adresa{
+float: left;
+width: 300px;
+}
+
+.elektronicke_kontakty{
+float: left;
+width: 300 px;
+}
+
+.ico{
+float: left;
+width: 200 px;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }

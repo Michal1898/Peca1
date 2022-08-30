@@ -50,11 +50,13 @@ font-family: arial, sans-serif;}
 
 float: left;
 width: 300px;
+text-align: center
 }
 
 .elektronicke_kontakty{
 float: left;
 width: 300 px;
+text-align: center
 }
 
 .ico{

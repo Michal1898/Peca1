@@ -44,20 +44,60 @@ font-family: arial, sans-serif;}
 .peca_v_bilem {
   /*margin: 50px auto;*/
   text-align: center;
-  color: green ;
+  color: Silver ;
   font-size: 11;
+}
+
+.peca2 {
+  float: left;
+  width: 250px;
+  text-align: center;
+  color: Olive ;
+  font-size: 11;
+  margin: 20px; 
+  }
+
+.peca2 span {
+   font-style: italic;
+   font-size: 15;
+}
+.olina {
+  float: left;
+  width: 250px;
+  text-align: center;
+  color: Olive ;
+  font-size: 11;
+  margin: 20px;
+  
+}
+.olina span {
+   font-style: italic;
+   font-size: 15;
+}
+.olina_new {
+  float: left;
+  width: 250px;
+  text-align: center;
+  color: Olive ;
+  font-size: 11;
+  margin: 20px;
+}
+
+.olina_new span {
+   font-style: italic;
+   font-size: 15;
 }
 
 .fyzicka_adresa{
 
 float: left;
-width: 300px;
+width: 250px;
 text-align: center
 }
 
 .elektronicke_kontakty{
 float: left;
-width: 300 px;
+width: 250 px;
 text-align: center
 }
 

@@ -44,6 +44,8 @@ font-family: arial, sans-serif;}
 .peca_v_bilem {
   /*margin: 50px auto;*/
   text-align: center;
+  color: green ;
+  font-size: 11;
 }
 
 .fyzicka_adresa{

@@ -37,10 +37,10 @@ footer {
     border: 2px solid black;
 	border-collapse: collapse;
 	text-align: auto;
-	margin: 50px auto;}
+	margin: 0px auto;}
 .peca_v_bilem {
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 	text-align: center;
 	color: Silver;
 	font-size: 11;

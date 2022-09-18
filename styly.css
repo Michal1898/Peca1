@@ -1,147 +1,131 @@
 /* CSS Document */
 body {
-    font-family: arial, sans-serif;
-    background-image: url("images/marble.jpg");
-    background-color: #cccccc;
+	font-family: arial, sans-serif;
+	background-image: url("images/marble.jpg");
+	background-color: #cccccc;
 }
 h1 {
-    color: green ;
-    text-align: center ;
+	color: green;
+	text-align: center;
 }
-
 table {
-  
-  width: 80%;
+	width: 80%;
 }
-
 table, th, td {
-  border: 2px solid black;
-  border-collapse: collapse;
-  border-radius: 10px;
-  text-align: auto;
-  margin: 50px auto;
-
+	border: 2px solid black;
+	border-collapse: collapse;
+	border-radius: 10px;
+	text-align: auto;
+	margin: 50px auto;
 }
-
 footer {
-      text-align:left;
-      font-family: Times New Roman, serif;
-      font-style: italic ;
-      font-size: 8 pt   ;
-      color: DarkBlue;  
-      background-color: Silver
-      }
-
-font-family: arial, sans-serif;}
-
-
-
-
+	text-align: left;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+	font-size: 8 pt;
+	color: DarkBlue;
+	background-color: Silver
+}
+	font-family: arial, sans-serif;
+}
 .ordinacni_hodiny {
-    text-align: auto;
+	text-align: auto;
 }
-
 .peca_v_bilem {
-  /*margin: 50px auto;*/
-  text-align: center;
-  color: Silver ;
-  font-size: 11;
+	/*margin: 50px auto;
+*/
+	text-align: center;
+	color: Silver;
+	font-size: 11;
 }
-
 .peca2 {
-  float: left;
-  width: 250px;
-  text-align: center;
-  color: Olive ;
-  font-size: 11;
-  margin: 20px; 
-  }
-
+	float: left;
+	width: 250px;
+	text-align: center;
+	color: Olive;
+	font-size: 11;
+	margin: 20px;
+}
 .peca2 span {
-   font-style: italic;
-   font-size: 15;
+	font-style: italic;
+	font-size: 15;
 }
 .olina {
-  float: left;
-  width: 250px;
-  text-align: center;
-  color: Olive ;
-  font-size: 11;
-  margin: 20px;
-  
+	float: left;
+	width: 250px;
+	text-align: center;
+	color: Olive;
+	font-size: 11;
+	margin: 20px;
 }
 .olina span {
-   font-style: italic;
-   font-size: 15;
+	font-style: italic;
+	font-size: 15;
 }
 .olina_new {
-  float: left;
-  width: 250px;
-  text-align: center;
-  color: Olive ;
-  font-size: 11;
-  margin: 20px;
+	float: left;
+	width: 250px;
+	text-align: center;
+	color: Olive;
+	font-size: 11;
+	margin: 20px;
 }
-
 .olina_new span {
-   font-style: italic;
-   font-size: 15;
+	font-style: italic;
+	font-size: 15;
 }
-
-.fyzicka_adresa{
-
-float: left;
-width: 250px;
-text-align: center
+.fyzicka_adresa {
+	float: left;
+	width: 250px;
+	text-align: center
 }
-
-.elektronicke_kontakty{
-float: left;
-width: 250 px;
-text-align: center
+.elektronicke_kontakty {
+	float: left;
+	width: 250 px;
+	text-align: center
 }
-
-.ico{
-float: left;
-width: 200 px;
+.ico {
+	float: left;
+	width: 200 px;
 }
-
 /* Navigace */
 nav {
 	background: Silver;
 }
-
 nav ul {
 	width: 90%;
 	margin: 0px auto;
 }
-
 nav ul li {
 	width: 145px;
 	list-style-type: none;
 	float: left;
 	text-align: center;
 	line-height: 50px;
-
 }
-
 nav ul li a {
-	/* color: white;   */
-    font-family: Times New Roman, serif;
+	/* color: white;
+*/
+	font-family: Times New Roman, serif;
 	font-size: 20px;
-    color: DarkBlue;  
+	color: DarkBlue;
 	text-decoration: none;
 }
-
 nav ul li a:hover {
-    color: red;
-    text-decoration: underline;
+	color: red;
+	text-decoration: underline;
 	border-bottom: 2px solid #e2beae;
 }
-
-
 .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.lokace {
+	width: 80%;
+	text-align: center;
+	color: Olive;
+	font-size: 11;
+	margin: 20px;
 }

@@ -121,11 +121,24 @@ nav ul li a:hover {
 	display: table;
 	clear: both;
 }
-
 .lokace {
 	width: 80%;
 	text-align: center;
 	color: Olive;
 	font-size: 11;
 	margin: 20px;
+}
+.covid {
+	width: 80%;
+	text-align: center;
+	color: Green;
+	font-size: 11;
+	margin: 20px;
+}
+.aktualita {
+	width: 80%;
+	text-align: center;
+	color: Black;
+	font-size: 11;
+	margin: 0px;
 }
